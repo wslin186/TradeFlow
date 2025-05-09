@@ -1,15 +1,5 @@
-<<<<<<< HEAD
 __pycache__/
 *.pyc
 .idea/
-.env
-.venv/
-=======
-@"
-__pycache__/
-*.pyc
-.env
-.vscode/
-.idea/
-"@ > .gitignore
->>>>>>> f2ce49d6c1c9f7e20336ac8a05274143fc4f4f32
+.DS_Store
+venv/
